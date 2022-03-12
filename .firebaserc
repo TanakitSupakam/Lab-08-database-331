@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "covid-19-7e18b",
+    "covid": "covid-19-7e18b"
+  },
+  "targets": {}
+}
